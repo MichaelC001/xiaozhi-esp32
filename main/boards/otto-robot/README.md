@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" align="center" src="../../../docs/V1/otto-robot.png"alt="logo">
+  <img width="80%" align="center" src="../../../docs/v1/otto-robot.png"alt="logo">
 </p>
   <h1 align="center">
   ottoRobot
